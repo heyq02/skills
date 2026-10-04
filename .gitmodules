@@ -13,3 +13,6 @@
 [submodule "submodules/guizang-social-card-skill"]
 	path = submodules/guizang-social-card-skill
 	url = https://github.com/op7418/guizang-social-card-skill.git
+[submodule "submodules/xiaohongshu-ops-skill"]
+	path = submodules/xiaohongshu-ops-skill
+	url = https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill.git
