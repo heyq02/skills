@@ -10,3 +10,6 @@
 [submodule "submodules/baoyu-skills"]
 	path = submodules/baoyu-skills
 	url = https://github.com/JimLiu/baoyu-skills.git
+[submodule "submodules/guizang-social-card-skill"]
+	path = submodules/guizang-social-card-skill
+	url = https://github.com/op7418/guizang-social-card-skill.git
