@@ -4,8 +4,8 @@
 [submodule "submodules/creator-buddy"]
 	path = submodules/creator-buddy
 	url = https://github.com/SpaceZephyr/creator-buddy.git
-[submodule "self-media-content-workflow"]
-	path = self-media-content-workflow
+[submodule "submodules/self-media-content-workflow"]
+	path = submodules/self-media-content-workflow
 	url = https://github.com/yanhua1010/self-media-content-workflow.git
 [submodule "submodules/baoyu-skills"]
 	path = submodules/baoyu-skills
