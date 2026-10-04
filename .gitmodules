@@ -1,3 +1,9 @@
 [submodule "submodules/blogger-distiller"]
 	path = submodules/blogger-distiller
 	url = https://github.com/otter1101/blogger-distiller.git
+[submodule "submodules/creator-buddy"]
+	path = submodules/creator-buddy
+	url = https://github.com/SpaceZephyr/creator-buddy.git
+[submodule "self-media-content-workflow"]
+	path = self-media-content-workflow
+	url = https://github.com/yanhua1010/self-media-content-workflow.git
