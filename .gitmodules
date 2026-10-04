@@ -19,3 +19,6 @@
 [submodule "submodules/video-to-subtitle-summary-skill"]
 	path = submodules/video-to-subtitle-summary-skill
 	url = https://github.com/imlewc/video-to-subtitle-summary-skill.git
+[submodule "submodules/seedance2-skill"]
+	path = submodules/seedance2-skill
+	url = https://github.com/dexhunter/seedance2-skill.git
