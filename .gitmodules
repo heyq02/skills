@@ -1,0 +1,3 @@
+[submodule "submodules/blogger-distiller"]
+	path = submodules/blogger-distiller
+	url = https://github.com/otter1101/blogger-distiller.git
