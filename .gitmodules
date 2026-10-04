@@ -16,3 +16,6 @@
 [submodule "submodules/xiaohongshu-ops-skill"]
 	path = submodules/xiaohongshu-ops-skill
 	url = https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill.git
+[submodule "submodules/video-to-subtitle-summary-skill"]
+	path = submodules/video-to-subtitle-summary-skill
+	url = https://github.com/imlewc/video-to-subtitle-summary-skill.git
